@@ -1,0 +1,33 @@
+access screen content and observe your actions
+appear on top of other apps or parts of the screen
+device location reporting
+full (superuser) access to all device features and storage
+execute shell commands
+modify secure system settings
+modify or delete the contents of your shared storage
+read the contents of your shared storage
+access approximate location (network-based) only in the foreground
+access precise location only in the foreground
+access location in the background
+use biometric hardware
+set an alarm
+close other apps
+measure app storage space
+disable your lock screen
+change your audio settings
+read sync settings
+toggle sync on and off
+set wallpaper
+view network connections
+view Wi-Fi connections
+Pair with Bluetooth devices
+Access Bluetooth settings
+change network connectivity
+Connect and disconnect from Wi-Fi
+have full network access
+control Near-Field Communication
+transmit infrared
+receive data from internet
+access notifications and Do Not Disturb settings
+access Do Not Disturb settings
+ignore battery optimizations
